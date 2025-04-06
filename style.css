@@ -1,0 +1,76 @@
+.main{ 
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content : center;
+
+
+}
+input{
+    padding:15px;
+    width: 250px;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.main button { 
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: white;
+    background-color: green;
+}
+.result {
+text-align: center;
+margin-top: 30px;
+display: none;
+
+}
+
+.result button{
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: white;
+    background-color: blue;
+    margin-bottom: 20px;
+
+}
+
+.cart{
+    padding: top 100px;
+    height: 170px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: white;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
